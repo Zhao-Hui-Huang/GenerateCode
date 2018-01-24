@@ -1,2 +1,2 @@
 # GenerateCode
-使用Python生成验证图片
+使用Python生成验证码图片
